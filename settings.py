@@ -1,0 +1,3 @@
+tile_size=64
+SCREEN_HEIGHT=tile_size*11
+SCREEN_WIDTH=1200
